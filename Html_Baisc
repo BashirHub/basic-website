@@ -1,0 +1,116 @@
+#Hello to this intro to Html
+# this is the text
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Text_Html</title>
+    </head>
+    <body>
+        Hello, Word!
+    </body>
+
+</html>
+
+## Next 
+## you can display an image in your page
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Image_Html</title>
+    </head>
+    <body>
+        <img src="    file:///C:/Users/Basheer/Desktop/Html_Basic/IBM.PNG" alt="our life" width="300">
+    </body>
+  
+  
+  ### links 
+### links to another page such as htpps://www.google.come by clicking to a link 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>links</title>
+    
+    </head>
+    <body>
+        
+        <a href="www.google.com">Click her</a>
+    </body>
+
+
+</html>
+
+### list 
+@@ there are to type of list 
+1.ordred lists
+2.unordred lists
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>lists</title>
+    </head>
+    <body>
+        An unordered list:
+        <ul>
+            <li>one Item </li>
+            <li>other item </li>
+            <li>Yet other Item</li>
+        </ul>
+        An ordered list:
+        <ol>
+            <li>First Item</li>
+            <li>Secand Item</li>
+            <li>Third Item</li>
+        </ol>
+    </body>
+</html>
+
+## tables
+## table is an structure models you can define a colume and rows
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Table</title>
+    </head>
+    <body>
+        <table>
+            <thead>
+                <th>year </th>
+                <th> month</th>
+                <th>day</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1998</td>
+                    <td>oct</td>
+                    <td>sunday</td>
+                </tr>
+                <tr>
+                    <td>2000</td>
+                    <td>may</td>
+                    <td>monday</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+
+</html>
+
+## form 
+## form is an colaction of elements 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>form</title>
+    </head>
+    <body>
+        <form >
+            <input type="text"  placeholder="Full_name" name="name">
+            <input type="submit">
+        </form>
+    </body>
+</html>
+
